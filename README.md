@@ -6,3 +6,4 @@ The main idea of this data set is to prepare the algorithm of the expert system,
 
 3. Attributes Information - a1 Temperature of patient { 35C-42C }, a2 Occurrence of nausea { yes, no }, a3 Lumbar pain { yes, no }, a4 Urine pushing (continuous need for urination) { yes, no }, a5 Micturition pains { yes, no }, a6 Burning of urethra, itch, swelling of urethra outlet { yes, no }, d1 decision: Inflammation of urinary bladder { yes, no }, d2 decision: Nephritis of renal pelvis origin { yes, no }.
 4. Citations - J.Czerniak, H.Zarzycki, Application of rough sets in the presumptive diagnosis of urinary system diseases, Artifical Inteligence and Security in Computing Systems, ACS'2002 9th International Conference Proceedings, Kluwer Academic Publishers,2003, pp. 41-51.
+5. Models Built - Decision Tree
